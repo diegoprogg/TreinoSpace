@@ -78,8 +78,7 @@ public class Intake implements EasySubsystem {
     public void loop() {
         currentTicks = getVelocity();
         updateDetection();
-
-        // para testar, depois retirar.
+        // teste de telemetria
         getTelemetry();
     }
 

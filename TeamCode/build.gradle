@@ -36,6 +36,7 @@ android {
 dependencies {
     implementation project(':FtcRobotController')
     implementation project(':EasyStack')
+
 }
 
 // Include common definitions from above.

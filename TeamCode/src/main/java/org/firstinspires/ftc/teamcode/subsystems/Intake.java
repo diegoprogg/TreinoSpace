@@ -26,7 +26,7 @@ public class Intake implements EasySubsystem {
     public double distance_right;
 
     //5281
-    //6767676ew9uqdiwjd21e8712e67133333333333
+    //67676763y26872ew9uqdiwjd21e8712e67133333333333
     public boolean full = false;
     public boolean detected = false;
     private long detectedSince = -1;
